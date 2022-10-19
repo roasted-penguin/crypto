@@ -1,0 +1,47 @@
+e = 000000001c2fd89d
+d = 20bebc25551b206d
+n = ca24e0aec5e650b3
+m = 0, c = 0, v = 0
+m = 1, c = 1, v = 1
+m = 2, c = 99551700989299081, v = 2
+m = 3, c = 14238919966211675254, v = 3
+m = 4, c = 11274154973440628620, v = 4
+m = 5, c = 9934177954305561353, v = 5
+m = 6, c = 14019625642795139125, v = 6
+m = 7, c = 8861966472334097337, v = 7
+m = 8, c = 389367559357362069, v = 8
+m = 9, c = 4756529007845453101, v = 9
+m = 10, c = 12875117912880592201, v = 10
+m = 11, c = 9085565844863707831, v = 11
+m = 12, c = 9965838065650554036, v = 12
+m = 13, c = 6638749427746281014, v = 13
+m = 14, c = 11986934796059012728, v = 14
+m = 15, c = 12237574993083075157, v = 15
+m = 16, c = 4681777986308948683, v = 16
+m = 17, c = 2005462727961791632, v = 17
+m = 18, c = 12886554953975738533, v = 18
+m = 19, c = 8974495986734511634, v = 19
+e = 0000000008a61ff3
+d = 03a9101da58b31bb
+n = 8c12698e19fc5ed7
+m = 2c271bb4b7e8725c, c = 32d68a1b67d710dc, v = 2c271bb4b7e8725c
+m = ab1c96619370b564, m may be too big
+m = 1e029d07d3d3d5f1, c = 48c72ad0fea9ec52, v = 1e029d07d3d3d5f1
+m = 812efe5d67204ea1, c = 0786b9969f4a3773, v = 812efe5d67204ea1
+m = dd98ce79026b4f58, m may be too big
+m = 742c3d4e7db598ff, c = 7042d73bfd048928, v = 742c3d4e7db598ff
+m = ee2e74fc3b1ad69d, m may be too big
+m = fd1e358332ba276c, m may be too big
+m = 0ab44742de42d063, c = 430b6cab29f08828, v = 0ab44742de42d063
+m = 88af8a599c376227, c = 60457ea14b51d776, v = 88af8a599c376227
+m = 65b28fcdb1a2bb8d, c = 2ddd8cecfa131351, v = 65b28fcdb1a2bb8d
+m = 2ef19a821eaf5f06, c = 72bdfd205af16949, v = 2ef19a821eaf5f06
+m = 08452e763c030b30, c = 53ceec97aa13f34c, v = 08452e763c030b30
+m = 5d3c2ca93353a67f, c = 1d95c018a77c3746, v = 5d3c2ca93353a67f
+m = 6badd67f2adf94fc, c = 59411d65bf0b8737, v = 6badd67f2adf94fc
+m = 71fc1a860fbc8178, c = 282dd6eb982ad10e, v = 71fc1a860fbc8178
+m = ff2df6e03cf20753, m may be too big
+m = e33266775cb34932, m may be too big
+m = d75750fdbc2603f4, m may be too big
+m = f714975e3532fd6e, m may be too big
+Random testing................PASSED
